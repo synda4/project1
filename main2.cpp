@@ -29,5 +29,5 @@ for (int i=0; i<= playersname.size(); i++)
 {
     cout << playersname[i] << "\n";
 }
-entre.close();
+entree.close();
 return 0;}

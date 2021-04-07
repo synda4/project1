@@ -22,7 +22,7 @@ else {
 
     cout<< "error :Unable to open file for reading."<<endl;
 }
-entre.close();
+entree.close();
 return 0;
     
 }
