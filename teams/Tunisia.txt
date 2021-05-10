@@ -1,0 +1,11 @@
+1:G:Farouk Ben Mustapha:31:34:0:Tunisie Espérance de Tunis	
+16:G:Aymen Dahmen:24:1:0:TunisieCS:Sfax
+22:G:Mouez Hassen:26:13:FranceStadebrestois29	
+40:G:Atef Dkhili:31:0:0:Tunisie Club africain	
+2:D:Wajdi Kechrida:25:13:0:Tunisie Étoile du Sahel	
+3:D:Montassar Talbi:22:1:0:Turquie Çaykur Rizespor	
+4:D:Yassine Meriah:27:47:3:Turquie Çaykur Rizespor	
+5:D:Oussama Haddadi:29:26:0:Turquie Kasımpaşa SK	
+6:D:Dylan:Bronn:25:26:1:France FC Metz	
+15:D:AliAbdi:27:2:0:France Paris FC	
+20:D:MohamedDräger:24:17:6:Grèce Olympiakos	

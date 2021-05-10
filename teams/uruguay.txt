@@ -1,0 +1,11 @@
+1:G:FernandoMuslera:34:100:0:TurquieGalatasarayAŞ	
+12:G:MartínCampaña:31:1:0:ArgentineCAIndependiente	
+23:G:MartínSilva:38:11:0:BrésilCRVascodaGama	
+2:D:JoséMaríaGiménez:26:41:4:EspagneAtléticoMadrid	
+3:D:DiegoGodínCapitaine:35:116:8:ItalieCagliariCalcio	
+4:D:GuillermoVarela:28:3:0:DanemarkFCCopenhague	
+13:D:GastónSilva:27:17:0:ArgentineCAIndependiente	
+16:D:MaxiPereira:36:124:3:PortugalSLBenfica	
+19:D:SebastiánCoates:30:30:1:PortugalSportingCP	
+5:M:CarlosAndrésSánchez:36:35:1:MexiqueCFMonterrey	
+6:M:RodrigoBentancur:23:6:0:ItalieJuventusFC

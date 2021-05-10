@@ -1,0 +1,11 @@
+12:G::AnthonyLopes:30:13:0:Lyonnais
+22:G:RuiSilva:27:170:80:EspagneGrenadeCF	
+2:D:LuísNeto:32:19:0:PortugalSportingCP
+3:D:DomingosDuarte:26:2:0:EspagneGrenadeCF
+4:D:RúbenDias:23:27:2:AngleterreManchesterCity
+5:D:NunoMendes:18:3:0:Portugal Sporting CP	
+6:D:JoséFonte:37:45:0:FranceLOSCLille	
+20:D:JoãoCancelo:26:26:4:AngleterreManchesterCity	
+21:D:CédricSoares:29:34:1:AngleterreArsenal
+8:M:JoãoMoutinho:34:130:7:AngleterreWolverhampton Wanderers
+7:A:CristianoRonaldo:36:173:103:ItalieJuventusFC	

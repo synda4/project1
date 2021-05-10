@@ -1,0 +1,14 @@
+8:M:Marcos Acuñ:29:27:0:PortugalSporting Portugal
+1:G:AgustínMarchesín:33:7:0:PortugalFCPorto
+25:D:NehuénPérez:20:0:0:PortugalFCFamalicão	
+3:D:NicolásTagliafico:28ans:25:0:Pays-BasAjaxAmsterdam	
+12:G:JuanMusso:27:1:0:ItalieUdinese	
+15:M:RodrigoDePaul:26:17:0:ItalieUdinese	
+21:A:PauloDybala:27:29:2:ItalieJuventusTurin	
+22:A:LautaroMartínez:23:21:11:ItalieInterMilan	
+17:M:NicolásDomínguez:22:5:1:ItalieBologneFC	
+6:D:GermánPezzella:29:16:2:ItalieACFFiorentina	
+5:M:LeandroParedes:26:24:3:FranceParisSaint-Germain	
+10:A:LionelMessi:33:142:71:EspagneFCBarcelone	
+18:M:GuidoRodríguez:27:9:0:EspagneBetisSéville	
+4:D:RenzoSaravia:27:9:0:BrésilSCInternacional
